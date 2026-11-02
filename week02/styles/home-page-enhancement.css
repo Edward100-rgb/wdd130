@@ -1,5 +1,6 @@
 main {
     max-width: 840px;
+    margin: 0;
 }
 
 main img {
@@ -9,16 +10,16 @@ main img {
 
 nav {
     background-color: #444;
-    padding: 0.5rem
+    padding: 0.5rem;
 }
 
 nav a {
-    color: white;
-    display: #000;
+    color: #555;
+    display: block;
 }
 
 h1 {
-    color: white;
+    color: #222;
 }
 
 aside {
