@@ -27,7 +27,7 @@ footer {
 h1,
 h2 {
     font-family: var(--heading-font);
-    color: var(--primary-color)
+    color: var(--accent1-color)
 }
 
 p,
@@ -58,7 +58,7 @@ article {
     padding: 16px;
     text-align: center;
     opacity: 0.7;
-    background-color: var(--accent1-color);
+    background-color: transparent;
     color: #ffffff
 }
 
@@ -69,8 +69,8 @@ article {
     right: 20px;
     margin: 0;
     padding: 16px;
-    background-color: var(--accent2-color);
-    border: 1.5px solid var(--secondary-color)
+    background-color: transparent;
+    border: none
 }
 
 .hero article img {
