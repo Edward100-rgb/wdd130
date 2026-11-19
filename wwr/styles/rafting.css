@@ -1,8 +1,8 @@
 :root {
     --primary-color: light blue;
     --secondary-color: cyan;
-    --accent1-color: white;
-    --accent2-color: silver;
+    --accent1-color: #333333;
+    --accent2-color: #444444;
     --heading-font: "Times New Roman", serif;
     --body-font: Arial, sans-serif
 }
@@ -59,7 +59,7 @@ article {
     text-align: center;
     opacity: 0.7;
     background-color: var(--accent1-color);
-    color: #fff
+    color: #ffffff
 }
 
 .hero article {
